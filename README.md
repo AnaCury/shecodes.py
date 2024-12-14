@@ -1,0 +1,2 @@
+# shecodes.py
+Python foundations
